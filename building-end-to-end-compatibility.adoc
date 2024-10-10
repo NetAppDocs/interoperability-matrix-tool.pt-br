@@ -1,0 +1,18 @@
+---
+sidebar: sidebar 
+permalink: building-end-to-end-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, workflow, host, os 
+summary: Você pode usar a Interoperability Matrix Tool para criar uma visualização de compatibilidade completa entre os produtos. 
+---
+= Crie compatibilidade completa entre os produtos
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode usar a Interoperability Matrix Tool para criar uma visualização de compatibilidade completa entre os produtos.
+
+O seguinte mostra o fluxo de trabalho:
+
+image::pg17_imt.png[pg17 IMT]

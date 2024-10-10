@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: deleting-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Pode eliminar os critérios de pesquisa guardados. 
+---
+= Eliminar critérios guardados
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Pode eliminar os critérios de pesquisa guardados.
+
+
+
+== Sobre esta tarefa
+
+Tem de ter o nome dos critérios guardados para eliminar os critérios guardados.
+
+
+
+== Passos
+
+. Clique no ícone de exclusão *X* na coluna *Ação*. A janela pop-up é exibida perguntando se você deseja ou não excluir os critérios salvos.
+. Clique em *Yes* (Sim) para eliminar os critérios guardados.
+. Clique em *no* para manter os critérios guardados.
+

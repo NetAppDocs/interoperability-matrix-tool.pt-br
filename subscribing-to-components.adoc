@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-components.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Você pode se inscrever em componentes únicos ou múltiplos de sua escolha. 
+---
+= Subscrever componentes
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode se inscrever em componentes únicos ou múltiplos de sua escolha.
+
+
+
+== Sobre esta tarefa
+
+Você receberá uma notificação por e-mail quando as alterações forem feitas no nome de exibição do componente ou estado do componente.
+
+
+
+== Passos
+
+. Clique no link *Subscription* no menu de cabeçalho.
+. Na janela de assinatura, selecione a guia *componente*.
+. Para assinar o componente de sua escolha, marque a caixa de seleção para a opção *Atributo atualizado*.
+. No campo *frequência*, selecione *imediato* ou *Digest*.
++
+
+NOTE: A seleção padrão é *imediata*.
+
+. Clique em *Subscribe* para obter as assinaturas dos componentes que você assinou.
++
+
+NOTE: Você pode clicar em *Redefinir* para limpar todas as seleções na guia *componente*.
+
+

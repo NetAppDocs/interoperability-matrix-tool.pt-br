@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: working-with-search-text-box.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: Você pode pesquisar componentes, soluções, categorias e configurações usando a caixa de texto de pesquisa. Dependendo do texto inserido, a caixa de texto de pesquisa exibe possíveis correspondências que podem ser incluídas nos critérios de pesquisa. 
+---
+= Trabalhar com caixa de texto de pesquisa
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode pesquisar componentes, soluções, categorias e configurações usando a caixa de texto de pesquisa. Dependendo do texto inserido, a caixa de texto de pesquisa exibe possíveis correspondências que podem ser incluídas nos critérios de pesquisa.

@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: editing-saved-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Pode editar os critérios de pesquisa guardados anteriormente. 
+---
+= Editar critérios guardados
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Pode editar os critérios de pesquisa guardados anteriormente. Pode adicionar quaisquer novos componentes aos critérios guardados ou remover o componente dos critérios guardados existentes.
+
+
+
+== Antes de começar
+
+Você deve carregar os critérios salvos para editá-lo.
+
+
+
+== Passos
+
+. Carregue os critérios guardados, clique na ligação critérios guardados.
+. Clique no link *refinar critérios de pesquisa*. Pode adicionar ou remover os critérios dos critérios guardados.
+

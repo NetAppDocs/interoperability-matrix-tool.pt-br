@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-the-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Na página refinar critérios de pesquisa, você pode optar por salvar ou atualizar os critérios de pesquisa para recuperá-los mais tarde. 
+---
+= Salve os critérios de pesquisa
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Na página *refinar critérios de pesquisa*, você pode optar por salvar ou atualizar os critérios de pesquisa para recuperá-los mais tarde.
+
+
+
+== Antes de começar
+
+Você já deve ter adicionado soluções e componentes na primeira página para salvar os critérios para referência futura.
+
+.Passos
+. Clique em *Salvar critérios* na página *refinar critérios de pesquisa*.
+. Insira o *Nome dos critérios* e adicione informações nos campos *Descrição*. O *Nome dos critérios* pode ser alfanumérico e pode adicionar até 20 carateres. O campo *Description* pode levar até 100 carateres alfanuméricos. A ferramenta de Matriz de interoperabilidade não permite nomes duplicados para guardar critérios. *Nome de critérios* é obrigatório.
+. Clique em *Atualizar critérios* para adicionar filtros ou critérios a serem incluídos como parte dos critérios salvos.
+. Clique em *Salvar*. O link *Save Criteria* muda para *Update Criteria* depois de salvar os critérios. Pode guardar um máximo de 10 critérios de pesquisa.
+
+
+
+
+== Resultado
+
+Quando você clica em *Saved Search*, um pop-up *Saved Criteria* é exibido. A guia *Pesquisa recente* exibe suas pesquisas mais recentes.
+
+Cada pesquisa salva recentemente é identificada exclusivamente por seu carimbo de data/hora. Você pode clicar no carimbo de data/hora para ir para a página *refinar critérios de pesquisa*.

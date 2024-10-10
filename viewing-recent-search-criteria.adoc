@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: viewing-recent-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Na página bem-vindo ao IMT, você pode carregar critérios de pesquisa salvos para exibir suas pesquisas recentes. 
+---
+= Ver critérios de pesquisa recentes
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Na página *bem-vindo à IMT*, você pode carregar critérios de pesquisa salvos para exibir suas pesquisas recentes.
+
+
+
+== Antes de começar
+
+Tem de ter guardado as suas pesquisas recentes.
+
+
+
+== Passos
+
+. Clique em *Pesquisa salva*.
+. Selecione a guia *Pesquisa recente* para exibir as pesquisas salvas recentemente. As suas pesquisas recentes são apresentadas.
+. Selecione a guia *critérios de pesquisa* para exibir seus critérios de pesquisa salvos específicos. Os seus critérios guardados são apresentados.
+

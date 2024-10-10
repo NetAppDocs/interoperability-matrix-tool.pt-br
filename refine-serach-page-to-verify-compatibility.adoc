@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: refine-serach-page-to-verify-compatibility.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: A ferramenta Matriz de interoperabilidade permite-lhe explorar as configurações compatíveis para o seu produto a partir da página refinar critérios de pesquisa. 
+---
+= A página refinar critérios de pesquisa para verificar a compatibilidade
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+A ferramenta Matriz de interoperabilidade permite-lhe explorar as configurações compatíveis para o seu produto a partir da página *refinar critérios de pesquisa*. Você pode reduzir os resultados de configuração desta página para as configurações desejadas para o seu produto.
+
+Você pode navegar até a página *refinar critérios de pesquisa* na página critérios de pesquisa iniciais, somente se os critérios inseridos tiverem configurações compatíveis. A página *refinar critérios de pesquisa* está dividida em dois painéis:
+
+* *Critérios de pesquisa*: Exibe as soluções, componentes e filtros adicionados aos critérios de pesquisa. Pode modificar os critérios de pesquisa iniciais para visualizar os resultados de configuração necessários. Você pode verificar *alterar critérios* para voltar à página *critérios de pesquisa* e modificar os critérios de pesquisa iniciais. Você pode verificar a guia *Dynamic Filtering* para ver a compatibilidade entre componentes imediatamente. Você pode desmarcar a guia *filtragem dinâmica* para adicionar vários componentes juntos e clique em *Atualizar* contagem. Você pode marcar *Experimente um método diferente* para navegar até a página inicial.
+* *Refinar critérios de pesquisa*: Exibe a lista de componentes em diferentes categorias. As categorias listadas neste painel dependem dos critérios de pesquisa e das configurações compatíveis.
++
+** Se você incluiu uma solução nos critérios de pesquisa iniciais, você pode selecionar componentes dessa categoria específica na página refinar *critérios de pesquisa*, bem como componentes de outras categorias.
+** Se tiver incluído componentes específicos nos critérios de pesquisa inicial, não poderá desmarcar os componentes incluídos nos critérios de pesquisa iniciais na página *refinar critérios de pesquisa*, mas pode selecionar componentes adicionais de outras categorias.
+
+
+
+
+Em cada categoria, você pode usar o ícone de filtro para exibir a caixa de texto de pesquisa e procurar um componente específico. Se você quiser redefinir ou limpar as seleções de componentes no painel *critérios de pesquisa*, clique em *Limpar tudo*.
+
+Dependendo dos componentes que você selecionar nas diferentes categorias, você notará que o número de resultados de configuração pode variar. Quanto mais componentes você selecionar, mais a ferramenta de Matriz de interoperabilidade reduz os resultados da pesquisa e permite visualizar a configuração desejada para o seu produto.

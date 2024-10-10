@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: saving-configuration.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Você pode salvar configurações com qualquer nome de sua escolha para uma solução específica. 
+---
+= Guardar a configuração
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode salvar configurações com qualquer nome de sua escolha para uma solução específica. Isso ajuda você a recuperar as configurações mais tarde sem lembrar o ID de configuração complicado.
+
+
+
+== Antes de começar
+
+Você pode facilmente recuperar a configuração desejada mais tarde procurando o nome que você especificou.
+
+
+
+== Sobre esta tarefa
+
+Se você quiser consultar a configuração mais tarde, você pode salvar a configuração com qualquer nome de sua escolha.
+
+
+
+== Passos
+
+. Na página *resultados*, clique em estrela para salvar a configuração. Depois de salvar a configuração, a estrela fica amarela. Pode guardar um máximo de 20 configurações.
+. Na caixa de diálogo *Configuração da etiqueta*, insira o nome e a descrição para marcar a configuração como referência. O nome de configuração guardado é apresentado na ligação de detalhes de configuração. Você pode adicionar várias configurações a uma tag específica. Uma tag é única para uma única solução. Usuários diferentes podem usar o mesmo nome de tag.
+. Selecione o nome da tag na seta suspensa para adicionar configurações a uma guia já salva.
+

@@ -1,0 +1,48 @@
+---
+sidebar: sidebar 
+permalink: add-solutions-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Você pode adicionar soluções aos seus critérios de pesquisa usando a caixa de texto de pesquisa ou a Pesquisa de solução. 
+---
+= Adicione soluções aos critérios de pesquisa
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode adicionar soluções aos seus critérios de pesquisa usando a caixa de texto de pesquisa ou *Pesquisa de solução*.
+
+
+
+== Sobre esta tarefa
+
+Se você estiver ciente das soluções específicas a serem adicionadas aos critérios de pesquisa, você pode inserir os nomes da solução na caixa de texto de pesquisa. Você pode usar o *Pesquisa de solução* se não tiver certeza da solução a ser adicionada aos critérios de pesquisa.
+
+Se quiser limpar as soluções incluídas nos critérios de pesquisa, clique em *Limpar tudo* no canto superior direito.
+
+
+
+=== Passos
+
+. Na página inicial da ferramenta de Matriz de interoperabilidade, introduza o nome da solução na caixa de texto de pesquisa para ver as correspondências possíveis.
++
+.. Clique em *Add* para incluir a solução aos critérios de pesquisa.
+
+
+. Opcional. Você pode incluir uma solução para os critérios de pesquisa usando *Pesquisa de solução*.
++
+.. Clique em *Pesquisa de solução*.
+.. No campo *Pesquisa de solução*, identifique a solução a ser adicionada aos critérios de pesquisa e clique em *Adicionar*.
+.. Se necessário, pode ativar a caixa de verificação *incluir PVR necessário, EOS* e *Configurações obsoletos*. Esta caixa de seleção inclui solicitação de variação de produto, suporte ao fim da versão e itens obsoletos nos resultados.
+
+
+
+
+Você pode usar a caixa de texto de pesquisa na janela *Pesquisa de solução* para procurar uma solução específica. Para remover uma solução adicionada usando a *Pesquisa de solução*, clique em *Remover* no painel superior.
+
+
+
+=== Resultado
+
+À medida que você inclui soluções para os critérios de pesquisa, as soluções são exibidas no painel direito sob *critérios de pesquisa*.

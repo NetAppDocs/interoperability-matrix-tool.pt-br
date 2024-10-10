@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: saving-a-recent-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Na página bem-vindo ao IMT, você pode salvar suas pesquisas recentes para preservar os critérios para pesquisas posteriores. 
+---
+= Salve uma pesquisa recente
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Na página bem-vindo ao IMT, você pode salvar suas pesquisas recentes para preservar os critérios para pesquisas posteriores.
+
+
+
+== Passos
+
+. Clique em *Pesquisa de solução* ou *Pesquisa avançada*.
+. Selecione critérios de pesquisa.
+. Selecione *Pular para resultados* ou clique em *Avançar* para refinar seus critérios de pesquisa e, em seguida, navegue até a página *Exibir configurações suportadas* (resultados). Uma caixa de diálogo pop-up informa que seus critérios são salvos automaticamente.
+

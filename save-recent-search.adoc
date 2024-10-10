@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: interoperability-matrix-tool-overview.html 
+keywords: imt, interoperability, matrix, tool 
+summary: Você pode salvar suas pesquisas recentes para preservar os critérios para pesquisas posteriores. 
+---
+= Guardar uma pesquisa recente
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Na página bem-vindo ao IMT, você pode salvar suas pesquisas recentes para preservar os critérios para pesquisas posteriores.
+
+.Passos
+. Clique em Pesquisa de solução ou Pesquisa avançada.
+. Selecione critérios de pesquisa.
+. Selecione Ignorar para resultados ou clique em Avançar para refinar seus critérios de pesquisa e, em seguida, navegue até a página Exibir configurações suportadas (resultados).
+
+
+Uma caixa de diálogo pop-up informa que seus critérios são salvos automaticamente.

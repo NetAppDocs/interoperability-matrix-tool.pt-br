@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: create-end-to-end-view-for-selected-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: A Interoperability Matrix Tool permite criar uma visualização de ponta a ponta para uma configuração específica, selecionando soluções relacionadas compatíveis com a configuração. 
+---
+= Crie uma vista de ponta a ponta para uma configuração selecionada
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+A Interoperability Matrix Tool permite criar uma visualização de ponta a ponta para uma configuração específica, selecionando soluções relacionadas compatíveis com a configuração. Você pode usar o recurso *Build End to End View with* na página *results* para criar uma exibição end-to-end para uma configuração.
+
+
+
+== Sobre esta tarefa
+
+Você pode criar uma exibição de ponta a ponta para uma configuração específica somente a partir da página *resultados*.
+
+
+
+== Passos
+
+. Na página *resultados* para uma configuração específica, clique no menu suspenso *Build End to End View with*.
+. Na lista suspensa, selecione as soluções necessárias listadas como compatíveis com essa configuração específica. As soluções que não são compatíveis com essa configuração específica estão acinzentadas.
+. O IMT exibe uma nova guia na página *resultados*, indicando a configuração modificada. Dependendo de sua exigência, você pode optar por incluir soluções adicionais usando o recurso *Build End to End View with* ou exportar as configurações.
+

@@ -1,0 +1,14 @@
+---
+sidebar: sidebar 
+permalink: reporting-an-issue.html 
+keywords: lash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified 
+summary: Se você encontrar um problema, então você pode relatar o problema para a equipe de suporte e feedback. 
+---
+= Relatar um problema
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Se você encontrar um problema, então você pode relatar o problema para a equipe de suporte e feedback usando o recurso *relatar um problema*.

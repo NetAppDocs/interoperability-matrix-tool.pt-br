@@ -1,0 +1,62 @@
+---
+sidebar: sidebar 
+permalink: working-with-ontap-san-host-solutions-search.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Verifique a compatibilidade das combinações versão do ONTAP e versão de armazenamento em flash ou tecido. Você pode refinar ainda mais sua pesquisa de compatibilidade para cada componente relevante 
+---
+= Trabalhar com o anfitrião SAN ONTAP Pesquisa simplificada
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Verifique a compatibilidade das combinações versão do ONTAP e versão de armazenamento em Flash ou malha. Você pode refinar ainda mais sua pesquisa de compatibilidade para cada componente relevante.
+
+
+
+== Sobre esta tarefa
+
+Você pode verificar a compatibilidade entre seus dispositivos de armazenamento flash ou de malha na SAN com a versão ONTAP que deseja usar e outros componentes relevantes. Você pode escolher entre *Expert view* ou *Novice view*.
+
+
+NOTE: Clique na opção *Definir como padrão* para abrir automaticamente uma pesquisa de *Host SAN ONTAP simplificado* sempre que abrir o IMT.
+
+
+
+== Passos
+
+. Clique em *anfitrião SAN ONTAP simplificado* na página inicial.
+. Selecione a vista que pretende utilizar:
++
+.. Clique em *Vista especializada* para ver as opções de critérios avançados.
+.. Clique em *visualização guiada* para ver as opções de critérios simplificados e guiados.
+
+
+. Em *Vista de aviso*, selecione as opções de critérios de pesquisa à medida que forem exibidas.
++
+.. Clique em *Skip* para passar para o próximo componente sem fazer uma seleção. Você pode retornar ao componente clicando em *Unskip* conforme necessário.
+.. Quando terminar, clique em *Exibir resultados* para ver as configurações suportadas para seus critérios de pesquisa.
+
+
+. Em *Vista especializada*, selecione os critérios de pesquisa que pretende utilizar para os vários componentes. Recomendamos que você passe da esquerda para a direita, pois cada seleção refinará os critérios restantes. Você não precisa fazer uma seleção para cada componente.
++
+.. Quando terminar, clique em *Exibir resultados* para ver as configurações suportadas para seus critérios de pesquisa.
+
+
+. Você também pode fazer o seguinte como parte do *Host SAN ONTAP simplificado*:
++
+.. Clique no ícone do livro para ver a política e as diretrizes aplicáveis à sua seleção.
+.. Clique no ícone de cadeia para gerar um URL compartilhável para suas seleções que você pode compartilhar com outras pessoas.
+.. Selecione o ícone desfazer para limpar todas as seleções e começar de novo.
+
+
+. Na tela resultados, você pode fazer o seguinte:
++
+.. Veja os detalhes, alertas e avisos de informações sobre sua configuração.
+.. Clique no ícone de estrela para tornar esta pesquisa um favorito. Nomeie e descreva a configuração. Isso se torna uma pesquisa salva, visível no menu *Pesquisa salva*. Você também pode assinar a configuração aqui, que irá notificá-lo quando as alterações forem feitas. Se você se inscrever, você também verá isso listado no menu *assinaturas*.
+.. Passe o Mouse sobre o *Build End to End View with* para encontrar soluções adicionais compatíveis.
+.. Clique em *e se* para alterar componentes e explorar outras opções de compatibilidade.
+
+
+

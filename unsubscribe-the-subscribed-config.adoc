@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: unsubscribe-the-subscribed-config.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Você pode cancelar a configuração da página de resultados se quiser receber mais atualizações. 
+---
+= Cancelar a subscrição das configurações subscritas
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode cancelar a configuração na página *resultados* se quiser receber mais atualizações.
+
+
+
+== Antes de começar
+
+Você deve ter se inscrito nas configurações na página *resultados*.
+
+Para cancelar a inscrição da configuração:
+
+* Na página *resultados*, clique em estrela para cancelar a configuração subscrita. Se remover a configuração da lista de favoritos, a configuração é automaticamente cancelada.
+

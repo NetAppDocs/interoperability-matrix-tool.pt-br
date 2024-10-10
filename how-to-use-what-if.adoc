@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: how-to-use-what-if.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: E se permitir que você explore todas as possíveis configurações suportadas que são suportadas. 
+---
+= Como usar e se
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+*E se* permite que você explore todas as possíveis configurações suportadas que são suportadas. Você pode usar o recurso *What if* para atualizar ou fazer downgrade de um componente em uma configuração selecionada e explorar a compatibilidade. Para visualizar todas as configurações suportadas depois de atualizar ou fazer o downgrade de um componente, você pode usar a opção *Exportar* para exportar os detalhes de configuração para uma Planilha do Excel ou PDF.
+
+Depois de selecionar um componente específico para atualizar ou fazer downgrade na janela *What if*, você pode ver se o componente selecionado é compatível com outros componentes na configuração ou se não há configurações correspondentes. Caso não haja configurações correspondentes, você deve considerar expandir os critérios iniciais para obter mais configurações.
+
+A janela *e se* está dividida em dois painéis:
+
+* Painel superior indica se um componente selecionado corresponde a quaisquer configurações válidas.
+* O painel inferior exibe as várias categorias e as respetivas versões de componentes.
+
+
+Se não conseguir encontrar a configuração desejada, clique em *Feedback* para relatar um problema.
+
+Para obter mais informações, link:reporting-an-issue.html["Relatar um problema"]consulte .

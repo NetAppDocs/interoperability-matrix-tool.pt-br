@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: subscribing-to-storage-solutions.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network 
+summary: Você pode se inscrever em uma ou várias soluções de storage de sua escolha. 
+---
+= Inscreva-se em soluções de armazenamento
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode se inscrever em uma ou várias soluções de storage de sua escolha.
+
+
+
+== Sobre esta tarefa
+
+Os dois tipos de assinatura são os seguintes:
+
+. *Imediato*: Você receberá um e-mail imediatamente quando houver quaisquer alterações feitas na solução subscrita.
+. *Digest*: Você receberá um e-mail acumulado no prazo de sete dias, refletindo todas as alterações feitas nas soluções subscritas.
+
+
+
+
+== Passos
+
+. Clique no link *Subscription* no menu de cabeçalho.
+. Na janela *Subscription*, selecione a guia *Storage Solution*.
+. Para soluções de armazenamento de sua escolha, marque as caixas de seleção para as opções *Atualização do status da solução, categorias associadas ou desassociadas ou Configurações adicionadas ou excluídas*.
++
+Você receberá e-mails para as seguintes instâncias:
+
++
+** Quando o status das soluções é alterado ou atualizado.
+** Quando algumas categorias são adicionadas ou excluídas da solução
+** Quando algumas configurações são adicionadas ou excluídas da solução
+
+
+. No campo *frequência*, selecione *imediato* ou *Digest*.
++
+
+NOTE: A seleção padrão é *imediata*.
+
+. Clique em *Subscribe* para se inscrever para obter as soluções que você selecionou.
++
+
+NOTE: Você pode clicar em *Redefinir* para limpar todas as seleções na guia *solução de armazenamento*.
+
+

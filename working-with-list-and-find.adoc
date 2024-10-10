@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: working-with-list-and-find.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, list, find 
+summary: Determine .. 
+---
+= Trabalhe com List e Find
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Na área de trabalho de componentes *List and Find*, você pode visualizar as melhores configurações possíveis para seus componentes.
+
+
+
+== Sobre esta tarefa
+
+Use o painel *Component Explorer* à esquerda para visualizar as configurações dos componentes selecionados. O painel à direita exibe as soluções; cada guia representa uma solução de armazenamento e o número de configurações que usam os componentes selecionados. Se o botão de alternância *Logic* verde na *List and Find Component Workarea* estiver definido como OU, você poderá procurar soluções que tenham configurações contendo componentes únicos. Se o botão verde *Logic* estiver definido como *E*, pode procurar soluções com configurações que contenham todos os componentes selecionados. Se vários componentes forem selecionados dentro do mesmo tipo de componente, o botão será definido como *OU*.
+
+
+
+== Passos
+
+. Clique em *Listar e encontrar* na página inicial.
+. Procure um nome de componente no *Component Explorer* ou expanda a seleção para adicionar componentes à *List and Find Component Workarea*.
++
+
+NOTE: Você pode selecionar soluções habilitadas específicas depois de adicionar um componente à *List and Find Component Workarea* antes de clicar em *Next*. Você também pode exportar um máximo de 3000 linhas para uma solução de cada vez em uma Planilha do Excel ou PDF.
+
+. Clique em *seguinte* para ver onde os componentes são usados em configurações em várias soluções na página *resultados*. É apresentada a configuração mais compatível para a sua lista de componentes.
+

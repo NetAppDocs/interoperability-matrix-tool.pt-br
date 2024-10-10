@@ -1,0 +1,89 @@
+---
+sidebar: sidebar 
+permalink: saved-search-criteria-sharing-with-other-users.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Você pode compartilhar seus critérios com os outros usuários. 
+---
+= Compartilhamento de critérios de pesquisa salvos com outros usuários
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Na página *refinar critérios de pesquisa*, você pode compartilhar seus critérios de *Pesquisa salva* com outros usuários.
+
+A seguir estão os três métodos diferentes para salvar e compartilhar os critérios de pesquisa:
+
+* <<Compartilhe os critérios ao salvar>>
+* <<Compartilhe os critérios após salvar>>
+* <<Exibir critérios compartilhados>>
+
+
+
+
+== Compartilhe os critérios ao salvar
+
+Na página refinar critérios de pesquisa, você pode compartilhar os critérios de pesquisa enquanto salva.
+
+
+
+=== Antes de começar
+
+Você deve adicionar as soluções e componentes na primeira página para compartilhar os critérios ao salvar.
+
+
+
+=== Passos
+
+. Marque a caixa de seleção compartilhar para compartilhar os critérios de pesquisa salvos.
+. Digite o Nome de usuário na caixa de texto para pesquisa de usuário e clique em Adicionar usuários.
++
+
+NOTE: Se o nome de utilizador não existir, é apresentada a mensagem de validação.
+
+. Você pode procurar enquanto usa a opção de usuário de pesquisa e enviar para critérios de compartilhamento.
+
+
+
+
+== Compartilhe os critérios após salvar
+
+Na página refinar critérios de pesquisa, você pode compartilhar os critérios de pesquisa após salvar.
+
+
+
+=== Antes de começar
+
+Você deve adicionar as soluções e componentes de Pesquisa salvas na primeira página para compartilhar os critérios após salvar.
+
+
+
+=== Passos
+
+. Clique na opção Pesquisa salva na página inicial.
+. Clique em partilhar para partilhar os critérios com outras pessoas.
+. Digite o nome de usuário na caixa de texto para pesquisar os usuários e clique em Enviar.
+
+
+
+
+== Exibir critérios compartilhados
+
+
+
+=== Antes de começar
+
+Você deve salvar as soluções e componentes na Pesquisa salva.
+
+
+
+=== Passos
+
+. Você pode exibir os critérios compartilhados com outros usuários definindo a opção Pesquisa salva como padrão.
+. Selecione Nome de usuário na coluna compartilhado por para exibir os critérios compartilhados.
+. Uma notificação por e-mail será enviada aos usuários compartilhados notificando sobre o compartilhamento.
+
+
+
+NOTE: A atualização dos critérios originais não terá qualquer influência sobre os critérios partilhados. São consideradas entidades separadas.

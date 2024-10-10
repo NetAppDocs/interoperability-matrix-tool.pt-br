@@ -1,0 +1,47 @@
+---
+sidebar: sidebar 
+permalink: tools-available-in-toolbox.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Active IQ Interop Advisor, Synergy, BURT, EPIC, LatX, tech, refresh, tool 
+summary: 'O separador Toolbox (caixa de ferramentas) mostra-lhe uma lista de ferramentas úteis divididas em três categorias de utilizador. Um link é exibido para cada ferramenta.' 
+---
+= Ferramentas disponíveis na caixa de ferramentas
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+A guia *Toolbox* mostra uma lista de ferramentas úteis divididas em três categorias de usuários. Um link é exibido para cada ferramenta.
+
+* Clientes
++
+** Active IQ
+** Config Advisor
+** ConfigEdge
+** Hardware Universe
+** Consultor Interop da Active IQ
+** Site público da NetApp
+** Site de suporte da NetApp
+** Uma coleta
+** Analisador unificado
+
+
+* Parceiros
++
+** Field Portal
+** LatX
+** QuoteEdge
+** SmartSolve
+** Sinergia
+** Modelador de desempenho do sistema
+** Ferramenta de atualização técnica
+
+
+* Interno ao NetApp
++
+** Ágil
+** BURT
+** ÉPICO
+
+
+

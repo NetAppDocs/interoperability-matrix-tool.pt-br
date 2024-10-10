@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: add-components-to-search-criteria.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, Active IQ, Interop, Advisor, tool 
+summary: Você pode adicionar componentes aos seus critérios de pesquisa usando a caixa de texto de pesquisa ou a Pesquisa Avançada. 
+---
+= Adicionar componentes aos critérios de pesquisa
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+Você pode adicionar componentes aos seus critérios de pesquisa usando a caixa de texto de pesquisa ou a *Pesquisa Avançada*.
+
+.Sobre esta tarefa
+Se você souber quais componentes deseja adicionar aos critérios de pesquisa, poderá inserir os nomes dos componentes na caixa de texto de pesquisa. Você pode usar o *Pesquisa Avançada* se não tiver certeza de quais componentes deseja adicionar aos critérios de pesquisa.
+
+Se quiser limpar os componentes incluídos nos critérios de pesquisa, clique em *Limpar tudo* no canto superior direito.
+
+.Passos
+. Na página inicial da ferramenta de Matriz de interoperabilidade, insira o nome do componente na caixa de texto de pesquisa para exibir as possíveis correspondências para o componente.
++
+.. Clique em *Add* para incluir o componente nos critérios de pesquisa.
+.. Clique em *Add* as para incluir os componentes de várias categorias aos critérios de pesquisa.
+.. Se você clicar em *Mostrar todas as correspondências*, o IMT exibirá a opção *Pesquisa Avançada* usando a qual você pode incluir mais componentes aos critérios de pesquisa.
+
+
+. Opcional. Você pode incluir um componente nos critérios de pesquisa usando *Pesquisa Avançada*.
++
+.. Clique em *Pesquisa avançada*.
+.. Na janela *Pesquisa avançada*, selecione uma categoria ou solução no painel esquerdo.
+.. No painel direito, identifique o componente a ser adicionado aos critérios de pesquisa e clique em *Add*.
+.. Insira palavras-chave na janela *Pesquisa avançada*.
+
+
+
+
+Você pode ativar palavras-chave como uma opção de pesquisa. Se ativado, você pode pesquisar uma ou mais linhas usando palavras-chave associadas a essas linhas. Você também pode usar a caixa de texto de pesquisa na janela *Pesquisa avançada* para pesquisar um componente específico. Para remover um componente adicionado usando a *Pesquisa Avançada*, você pode clicar em *Remover* no painel direito.
+
+
+
+== Resultado
+
+À medida que você inclui componentes para os critérios de pesquisa, os componentes são exibidos no painel direito sob *critérios de pesquisa*.

@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: using-subscription.html 
+keywords: flash, fabric, storage, interoperability, matrix, tool, imt, ONTAP SAN Host Simplified, storage, area, network, 
+summary: O link assinatura permite que você assine a solução de armazenamento, categoria ou componente. Se você se inscreveu em uma determinada solução de armazenamento, categoria ou componente, receberá um e-mail somente se forem feitas alterações nas soluções, categorias ou componentes subscritos. 
+---
+= Use a assinatura
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+O link *Subscription* permite que você assine *Storage Solution, Category ou Component*. Se você se inscreveu em uma determinada solução de armazenamento, categoria ou componente, receberá um e-mail somente se forem feitas alterações nas soluções, categorias ou componentes subscritos.
+
+Você receberá e-mails para as seguintes assinaturas:
+
+. *Solução de armazenamento*: Quando as alterações são feitas na atualização de status, categorias associadas ou desassociadas e configurações adicionadas ou excluídas.
+. *Categoria*: Quando os componentes são adicionados ou excluídos da categoria.
+. *Componente*: Quando as alterações são feitas no nome de exibição do componente ou estado do componente.
++
+
+NOTE: Você receberá um e-mail dependendo do tipo de frequência selecionado. Os dois tipos de frequência são os seguintes:
+
++
+** Imediato: Você receberá um e-mail imediatamente quando quaisquer alterações forem feitas nas soluções, categorias ou componentes subscritos.
+** Resumo: Você receberá um e-mail acumulado a cada sete dias refletindo todas as alterações feitas nas soluções, categorias ou componentes subscritos.
+
+
+
